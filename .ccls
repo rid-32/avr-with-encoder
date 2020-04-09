@@ -1,0 +1,4 @@
+clang
+-I/home/rid/.platformio/packages/toolchain-atmelavr/avr/include
+-I./lib/Ctrl
+-include/home/rid/.platformio/packages/toolchain-atmelavr/avr/include/avr/iom32.h
